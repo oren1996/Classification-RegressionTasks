@@ -1,4 +1,3 @@
-Machine Learning Project: Final Course Project in Python
 Project Overview
 This project is part of the final course assignment in Machine Learning Applications using Python. It focuses on implementing and evaluating classification and regression models, including data preprocessing, handling missing values, feature engineering, and model evaluation.
 
